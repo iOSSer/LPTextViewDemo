@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "LPAttributedStringWithFace.h"
 @interface FirstViewController : UIViewController
 
 
